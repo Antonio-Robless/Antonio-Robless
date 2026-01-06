@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Antonio Robles!
-- 👀 I’m interested in learning and creating AI.
-- 🌱 I’m currently working towards a BS in Computer Science with a concentration in AI at the Univeristy of Oregon!
+- 👀 I’m interested in learning and working in compuer networking.
+- 🌱 I’m currently working towards a BS in Computer Science with a concentration in Networking at the Univeristy of Oregon!
 - 📫 How to reach me: Email: bryan77robles@gmail.com
 
 
